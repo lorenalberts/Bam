@@ -1,5 +1,5 @@
 # Bam
 First Repository
 I'm learning about GitHub
-http://rockitbootcamp.com/
+<a href="http://rockitbootcamp.com/> Rockit Boot Camp</a>
 
